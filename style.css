@@ -55,6 +55,7 @@
   padding: 0 20px;
   overflow: hidden; 
 }
+
 .pasek{
   text-decoration: none;
   background-color: #ffffff;
@@ -118,8 +119,14 @@ header a:hover{
 
 .rozdzielenie{
   padding-top: 5%;
+  
 }
 
+.oferujemy{
+  font-size: 22px;
+  margin-left: 38.5%;
+  margin-top: 1.5%;
+}
 
 .pasek > *{
   padding: 15px;
@@ -127,6 +134,7 @@ header a:hover{
 }
 .rozdzielenie{
   padding-top: 3%;
+ 
 }
 
 header img{
@@ -224,13 +232,19 @@ input{
 
 .zakresUslug{
   padding: 20%;
-  background-color: #0d6efd;
+ 
+  background-color: #073273;
   height: 30%;
+  margin-top: 2%;
   color: white;
   padding: 1%;
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+.kon p{
+  display: inline;
 }
 
 .odn{
@@ -245,6 +259,8 @@ input{
   margin-left: 15%;
   padding-top: 5%;
 }
+
+
 
 .kon .logo2{
     display: block;
